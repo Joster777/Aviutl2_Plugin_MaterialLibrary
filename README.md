@@ -1,0 +1,2 @@
+# Aviutl2_Plugin_MaterialLibrary
+Aviutl2に登録している汎用素材をメディアオブジェクトから呼び出せるようにする機能を追加するプラグインです。
